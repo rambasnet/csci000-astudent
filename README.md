@@ -24,7 +24,7 @@
 | Status | Done |
 | Location | https://github.com/rambasnet/csci000-astudent/tree/master/python/hello |
 | Self Grade | 100/100 |
-| Notes | completed all the requirements and tested program many times |
+| Notes | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location |
 
 ### Assignment #2
 
@@ -32,11 +32,11 @@
 | :--- | :--- |
 | Name | Egypt |
 | Description | [egypt problem on Kattis](https://open.kattis.com/problems/egypt) |
-| Due Date | 2-Jan-20 |
-| Status | Done |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/python/hello |
-| Self Grade | 100/100 |
-| Notes | completed all the requirements: wrote 3 test cases; solution accepted by kattis; screenshot found in the same folder |
+| Due Date | 1-Feb-20 |
+| Status | In-progress |
+| Location | https://github.com/rambasnet/csci000-astudent/tree/master/assignments/cpp/egypt |
+| Self Grade | - |
+| Notes | completed the solution; need to write test cases |
 
 
 ## Labs
@@ -52,6 +52,7 @@
 | Location | https://github.com/rambasnet/csci000-astudent/tree/master/python/hello |
 | Self Grade | 110/100 |
 | Notes | Completed extra credit; and tested program many times |
+
 
 
 ## References
