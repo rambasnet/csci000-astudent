@@ -48,16 +48,15 @@
 | Name | 1 - Std IO Lab |
 | Description | Lab covering standard input and output |
 | Due Date | 10-Jan-20 |
-| Status | Done |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/python/hello |
-| Self Grade | 110/100 |
-| Notes | Completed extra credit; and tested program many times |
-
+| Status | in-progress |
+| Location | https://github.com/rambasnet/csci000-astudent/tree/master/labs/cpp/stdio |
+| Self Grade | - |
+| Notes | typed the given code stub; need to fix all the fixmes |
 
 
 ## References
 
 1. [How to turn in assignments on GitHub](https://docs.google.com/document/d/16mixtVA-dePbWidBzI3JXNW4kFhRyT7XsJgL6GtGvGA/edit?usp=sharing)
-- [Git Started](https://docs.google.com/document/d/1M0YeBfFPy5YPpfX7312R9-IldjagimvEma_YhgeLPcw/edit#heading=h.ssqvh5gmotj4)
-- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- Other
+2. [Git Started](https://docs.google.com/document/d/1M0YeBfFPy5YPpfX7312R9-IldjagimvEma_YhgeLPcw/edit#heading=h.ssqvh5gmotj4)
+3. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+4. Other
