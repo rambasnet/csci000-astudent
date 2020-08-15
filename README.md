@@ -1,6 +1,6 @@
 # csci000-astudent
 
-Sample github repo demonstrating how to turn in assignments
+## A sample github repo demonstrating how to turn in assignments and labs
 
 | Name | Value |
 |:---|:---|
@@ -14,19 +14,31 @@ Sample github repo demonstrating how to turn in assignments
 
 ## Assignments
 
-| Assignment | Due Date | Status | Location | Grade | Notes |
-|:-----------|:--------:|:----:|:---------|:------|
-| 1 - Python Hello  | 1-Jan-20 |  ☑   | [cpp-hello](https://github.com/wmacevoy/csci000-astudent/tree/master/cpp-hello) | Test C++ function with Google Test |
-| 2 - C++ Greet  | 1-Feb-20 |  ☑   | [cpp-greet](https://github.com/wmacevoy/csci000-astudent/tree/master/cpp-greet) | Test C++ class with Google Test |
-| 4 - Kattis | 1-Jan-20 |  ☑   |  [java-billiard](https://github.com/wmacevoy/csci000-astudent/tree/master/java-billiard) | Tested Java solution to billiard kattis problem |
-| 5 - Kattis | 3-Jan-20 |  ☑   |  [cpp-billiard](https://github.com/wmacevoy/csci000-astudent/tree/master/cpp-billiard) | Tested C++ solution to billiard kattis problem |
+| Name | Value |
+| :--- | :--- |
+| Name | 1 - Hello World |
+| Description | A basic hello world program |
+| Due Date | 1-Jan-20 |
+| Status | Done |
+| Location | https://github.com/rambasnet/csci000-astudent/tree/master/python/hello |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements and tested program many times |
+
+## Labs
+| Name | Value |
+| :--- | :--- |
+| Name | 1 - Std IO Lab |
+| Description | Lab covering standard input and output |
+| Due Date | 10-Jan-20 |
+| Status | Done |
+| Location | https://github.com/rambasnet/csci000-astudent/tree/master/python/hello |
+| Self Grade | 110/100 |
+| Notes | Completed extra credit; and tested program many times |
 
 
 ## References
 
 1. [How to turn in assignments on GitHub](https://docs.google.com/document/d/16mixtVA-dePbWidBzI3JXNW4kFhRyT7XsJgL6GtGvGA/edit?usp=sharing)
-1. [Git Started](https://docs.google.com/document/d/1M0YeBfFPy5YPpfX7312R9-IldjagimvEma_YhgeLPcw/edit#heading=h.ssqvh5gmotj4)
-1. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-1. Other
-
-
+- [Git Started](https://docs.google.com/document/d/1M0YeBfFPy5YPpfX7312R9-IldjagimvEma_YhgeLPcw/edit#heading=h.ssqvh5gmotj4)
+- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- Other
