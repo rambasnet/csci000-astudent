@@ -22,12 +22,12 @@ int main(int argc, char* argv[]) {
 
 char* answer() {
     // can return address to static array from a function
-    static char ans[] = "Hello World\0";
+    static char ans[] = "Hello World!\0";
     return ans;
 }
 
 void test() {
-    assert(strncmp(answer(), "Hello World", 11) == 0);
+    assert(strncmp(answer(), "Hello World!", 12) == 0);
     printf("All test cases passed...\n");
 }
 

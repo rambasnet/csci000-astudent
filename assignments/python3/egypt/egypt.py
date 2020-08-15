@@ -26,7 +26,7 @@ def test():
     input3 = [5, 12, 13]
     assert answer(input3) == "right"
     input4 = [1, 2, 3]
-    assert(answer(input4) == "wrong")
+    assert answer(input4) == "wrong"
     input5 = [2000, 100, 30000]
     assert answer(input4) == "wrong"
     print('all test cases passed...')
