@@ -14,6 +14,8 @@
 
 ## Assignments
 
+### Assignment #1
+
 | Name | Value |
 | :--- | :--- |
 | Name | 1 - Hello World |
@@ -24,7 +26,23 @@
 | Self Grade | 100/100 |
 | Notes | completed all the requirements and tested program many times |
 
+### Assignment #2
+
+| Name | Value |
+| :--- | :--- |
+| Name | Egypt |
+| Description | [egypt problem on Kattis](https://open.kattis.com/problems/egypt) |
+| Due Date | 2-Jan-20 |
+| Status | Done |
+| Location | https://github.com/rambasnet/csci000-astudent/tree/master/python/hello |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements: wrote 3 test cases; solution accepted by kattis; screenshot found in the same folder |
+
+
 ## Labs
+
+### Lab #1
+
 | Name | Value |
 | :--- | :--- |
 | Name | 1 - Std IO Lab |
