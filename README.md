@@ -33,10 +33,10 @@
 | Name | Egypt |
 | Description | [egypt problem on Kattis](https://open.kattis.com/problems/egypt) |
 | Due Date | 1-Feb-2020 |
-| Status | In-progress |
+| Status | Complete |
 | Location | https://github.com/rambasnet/csci000-astudent/tree/master/assignments/cpp/egypt |
-| Self Grade | - |
-| Notes | completed the solution; need to write test cases |
+| Self Grade | 80/100 |
+| Notes | completed the solution; couldn't write test cases |
 
 
 ## Labs
@@ -48,10 +48,10 @@
 | Name | 1 - Std IO Lab |
 | Description | Lab covering standard input and output |
 | Due Date | 10-Jan-20 |
-| Status | in-progress |
+| Status | complete |
 | Location | https://github.com/rambasnet/csci000-astudent/tree/master/labs/cpp/stdio |
-| Self Grade | - |
-| Notes | typed the given code stub; need to fix all the fixmes |
+| Self Grade | 100/100 |
+| Notes | typed the given code stub; fixed all the fixmes; learned about stdio |
 
 
 ## References
