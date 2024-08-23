@@ -65,7 +65,7 @@
 | Status | complete |
 | Location | https://github.com/rambasnet/csci000-astudent/tree/master/labs/cpp/stdio |
 | Self Grade | 100/100 |
-| Notes | typed the given code stub; fixed all the fixmes; learned about stdio |
+| Notes | fixed all the fixmes; learned about stdio; stdio is the fundamental building blocks in coding |
 
 
 ## References
