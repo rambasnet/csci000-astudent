@@ -2,29 +2,17 @@
 
 ## A sample github repo demonstrating how to turn in assignments and labs
 
-| Name | Value |
+| Jairo | Value |
 |:---|:---|
-| **Course** | CSCI111 - CS1: Foundations of Computer Science |
+| **Course** | CSCI110 - CS0: Foundations of Computer Science |
 | **Section** | 3 |
-| **Semester** | Fall 2020 |
+| **Semester** | Fall 2024 |
 | **Student** | A Student |
-| **Mav Username**            | astudent |
-| **GitHub Username**         | gituser123 |
+| **Mav Username**            | jbhernandez2 |
+| **GitHub Username**         | j5iro |
 | **Repository**          | https://github.com/rambasnet/csci000-astudent |
 
 ## Assignments
-
-### Assignment #2
-
-| Name | Value |
-| :--- | :--- |
-| Name | Egypt |
-| Description | [egypt problem on Kattis](https://open.kattis.com/problems/egypt) |
-| Due Date | 1-Feb-2020 |
-| Status | Complete |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/assignments/cpp/egypt |
-| Self Grade | 80/100 |
-| Notes | completed the solution; couldn't write test cases |
 
 ### Assignment #1
 
